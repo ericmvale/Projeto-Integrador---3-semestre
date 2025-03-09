@@ -21,7 +21,7 @@ com o intuito de aperfeiçoar a eficiência operacional dos profissionais de TI.
 
 ## 👥 Equipe  
 - Eric Vale (@ericmvale)  
-- João Francisco (@usuario2)
+- João Francisco (@JoaoFranciscoSF)
 - Lavinia Talissa (@laviniat05)
 - Lorena Cartaxo (@usuario4)
 
