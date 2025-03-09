@@ -13,10 +13,15 @@ com o intuito de aperfeiçoar a eficiência operacional dos profissionais de TI.
 
 ## 📂 Protótipos e Diagramas  
 - [Protótipo do Figma](link_aqui)  
-- ![Diagrama](caminho/diagrama.png)  
+- ![Diagrama Cadastro de Alunos](https://github.com/ericmvale/Projeto-Integrador---3-semestre/blob/main/Diagrama%20Cadastro%20de%20Alunos.png?raw=true) 
+- ![Diagrama Cadastro de Fornecedores](https://github.com/ericmvale/Projeto-Integrador---3-semestre/blob/main/Diagrama%20Cadastro%20de%20Fornecedores.png?raw=true)
+- ![Diagrama Cadastro de Pessoa Física](https://github.com/ericmvale/Projeto-Integrador---3-semestre/blob/main/Diagrama%20Cadastro%20de%20Pessoa%20F%C3%ADsica.png?raw=true)
+- ![Diagrama Cadastro de Pessoa Jurídica](https://github.com/ericmvale/Projeto-Integrador---3-semestre/blob/main/Diagrama%20Cadastro%20de%20Pessoa%20Jur%C3%ADdica.png?raw=true)
+- ![Diagrama Cadastro de Professores](https://github.com/ericmvale/Projeto-Integrador---3-semestre/blob/main/Diagrama%20Cadastro%20de%20Professores.png?raw=true)   
 
 ## 👥 Equipe  
 - Eric Vale (@ericmvale)  
 - João Francisco (@usuario2)
-- Lavinia Talissa (@usuario2)
+- Lavinia Talissa (@laviniat05)
+- Lorena Cartaxo (@usuario4)
 
