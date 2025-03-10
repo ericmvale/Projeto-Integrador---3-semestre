@@ -12,7 +12,7 @@ com o intuito de aperfeiçoar a eficiência operacional dos profissionais de TI.
 - [ ] Outras funcionalidades (em desenvolvimento)  
 
 ## 📂 Protótipos e Diagramas  
-- [Protótipo do Figma](https://www.figma.com/design/EfZHjti6rRwVgwdXqCdcfk/Projeto-Integrador---3%C2%BA-semestre?node-id=0-1&p=f&t=2b6DDctU2jaFdmvu-0)
+- [Protótipo do Figma](https://www.figma.com/design/EfZHjti6rRwVgwdXqCdcfk/Projeto-Integrador---3%C2%BA-semestre?node-id=0-1&t=NLfhVhBKqjr5W2SR-1)
 - [Visualizar Protótipos em PDF](https://github.com/ericmvale/Projeto-Integrador---3-semestre/blob/main/Prot%C3%B3tipo%20-%203%C2%BA%20semestre.pdf)
 - [Baixar Protótipos em PDF](https://raw.githubusercontent.com/ericmvale/Projeto-Integrador---3-semestre/main/Prot%C3%B3tipo%20-%203%C2%BA%20semestre.pdf)
 - ![Diagrama Cadastro de Alunos](https://raw.githubusercontent.com/ericmvale/Projeto-Integrador---3-semestre/refs/heads/main/Diagrama%20Cadastro%20de%20Alunos.png) 
