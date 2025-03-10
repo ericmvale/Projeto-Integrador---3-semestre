@@ -20,8 +20,8 @@ com o intuito de aperfeiçoar a eficiência operacional dos profissionais de TI.
 - ![Diagrama Cadastro de Professores](https://raw.githubusercontent.com/ericmvale/Projeto-Integrador---3-semestre/refs/heads/main/Diagrama%20Cadastro%20de%20Professores.png)   
 
 ## 👥 Equipe  
-- Eric Vale (@ericmvale)  
-- João Francisco (@JoaoFranciscoSF)
-- Lavinia Talissa (@laviniat05)
-- Lorena Cartaxo (@usuario4)
+- ERIC MATHEUS SOUZA DO VALE (@ericmvale)  
+- JOÃO FRANCISCO DE SOUZA FERREIRA (@JoaoFranciscoSF)
+- LAVINIA TALISSA MACHADO (@laviniat05)
+- LORENA BRITO CARTAXO (@usuario4)
 
