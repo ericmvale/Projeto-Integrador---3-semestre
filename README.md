@@ -25,5 +25,5 @@ com o intuito de aperfeiçoar a eficiência operacional dos profissionais de TI.
 - ERIC MATHEUS SOUZA DO VALE (@ericmvale)  
 - JOÃO FRANCISCO DE SOUZA FERREIRA (@JoaoFranciscoSF)
 - LAVINIA TALISSA MACHADO (@laviniat05)
-- LORENA BRITO CARTAXO (@usuario4)
+- LORENA BRITO CARTAXO (@lorenacartaxo)
 
